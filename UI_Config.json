@@ -1,0 +1,11 @@
+{
+	"output_file": "settings.json",
+	"humbleName": {
+		"type": "textbox",
+		"value": "",
+		"label": "Humble Partner Name",
+		"tooltip": "The name of your HumbleBundle partner account",
+		"group": "Humble Settings"
+  }
+}
+ 
