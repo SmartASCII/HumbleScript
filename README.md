@@ -1,5 +1,5 @@
 # HumbleScript
-Automatically generate HumbleBundle partner links for the games you're playing on Twitch
+A script for Streamlabs Chatbot to automatically generate HumbleBundle partner links for the games you're playing on Twitch
 
 
 ## Usage
