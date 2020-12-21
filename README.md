@@ -1,10 +1,13 @@
 # HumbleScript
-A script for Streamlabs Chatbot to automatically generate HumbleBundle partner links for the games you're playing on Twitch
+A script for Streamlabs Chatbot to automatically generate HumbleBundle partner links for the games you're playing on Twitch. 
+
+If you're unsure how to import scripts, refer to [Streamlab's guide](https://github.com/StreamlabsSupport/Streamlabs-Chatbot/wiki/Prepare-&-Import-Scripts)
 
 
 ## Usage
-1. Import into Streamlabs Chatbot
-2. Fill in your partner name from HumbleBundle in the script settings
+1. Download ZIP through Github
+2. Import the zipped script into Streamlabs Chatbot
+3. Fill in your partner name from HumbleBundle in the script settings and click Save
 
 Chat commands:
 ```bash
